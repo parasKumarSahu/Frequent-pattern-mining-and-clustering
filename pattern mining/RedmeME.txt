@@ -1,0 +1,11 @@
+2016CSB1047
+PARAS KUMAR
+
+REAME ME
+========
+
+To Run the program
+------------------
+python3 2016csb1047.py
+
+Note: output.txt contains the sample output.
